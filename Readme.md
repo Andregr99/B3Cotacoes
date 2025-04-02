@@ -1,4 +1,4 @@
-# 🌤️ **Automatização de Cotações da B3 com Playwright** 🤩
+#  **Automatização de Cotações da B3 com Playwright** 🤩
 
 Este projeto realiza a extração automática de cotações de ativos na B3, utilizando Python, Playwright e Pandas. **O código está estruturado seguindo boas práticas, incluindo tratamento de erros, logging e execução parametrizada via linha de comando.**
 
