@@ -45,7 +45,7 @@ pip install -r requirements.txt
 4️⃣ **Execute o script**
 
 Modo interativo (abre o navegador):
-python projeto_b3.py B3Acoes.xlsx
+python B3Cotacoes.py B3Acoes.xlsx
 
-Modo headless (sem abrir o navegador):sh
-python projeto_b3.py B3Acoes.xlsx --headless
+Modo headless (sem abrir o navegador):
+python B3Cotacoes.py B3Acoes.xlsx --headless
