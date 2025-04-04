@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "b3_cotacoes"
+version = "1.0.0"
+dependencies = [
+    "playwright",
+    "pandas",
+    "python-dotenv",
+    "openpyxl"
+]
