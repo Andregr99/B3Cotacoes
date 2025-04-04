@@ -29,32 +29,6 @@ Este projeto realiza a extração automática de cotações de ativos na B3, cap
 **Argparse** (parâmetros via CLI)
 
 
-## 📂 **Estrutura do Projeto**
-
-B3Cotacoes/
-├── data/                  # Arquivos de dados de entrada/saída
-│   ├── B3Acoes.xlsx       # Planilha com os ativos a serem  ├──outputs/               # Saídas geradas pelo sistema
-│   └── resultados.xlsx    # Resultados das cotações
-├── logs/                  # Arquivos de log
-│   └── automacao.log      # Registros de execução
-├── src/                   # Código fonte principal
-│   ├── b3_cotacoes/       # Módulo principal
-│   │   ├── exceptions.py  # Tratamento de exceções
-│   │   └── scraper.py     # Lógica de extração de dados
-│   ├── config/            # Configurações do projeto
-│   │   ├── logging_config.py  # Configuração de logging
-│   │   └── settings.py    # Configurações gerais
-│   ├── utils/             # Utilitários
-│   │   ├── file_handler.py # Manipulação de arquivos
-│   │   └── helper.py      # Funções auxiliares
-│   └── main.py            # Ponto de entrada do programa
-├── tests/                 # Testes unitários
-│   └── test_scraper.py    # Testes para o módulo scraper
-├── .env                   # Exemplo de variáveis de ambiente
-├── .gitignore             # Arquivos ignorados pelo git
-└── pyproject.toml         # Configuração do projeto
-
-
 ## ⚙️ **Instalação e Execução** 
 
 **Pré-requisitos**
