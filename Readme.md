@@ -70,9 +70,9 @@ cd B3Cotacoes
 2️⃣ Crie e ative um ambiente virtual:
 
 python -m venv venv
-# Windows:
+Windows:
 venv\Scripts\activate
-# Linux/Mac:
+Linux/Mac:
 source venv/bin/activate
 
 3️⃣ Instale as dependências e o Playwright:
