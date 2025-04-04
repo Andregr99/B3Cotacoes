@@ -34,6 +34,7 @@ Este projeto realiza a extração automática de cotações de ativos na B3, cap
 **Pré-requisitos**
 
 Python 3.10 ou superior
+
 Git (para clonar o repositório)
 
 1️⃣ Clone o repositório:
@@ -53,7 +54,9 @@ source venv/bin/activate
 3️⃣ Instale as dependências e o Playwright:
 
 pip install -e .
+
 playwright install
+
 playwright install-deps
 
 🧪 Testes
