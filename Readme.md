@@ -39,6 +39,7 @@ Git (para clonar o repositório)
 1️⃣ Clone o repositório:
 
 git clone https://github.com/Andregr99/B3Cotacoes.git
+
 cd B3Cotacoes
 
 2️⃣ Crie e ative um ambiente virtual:
